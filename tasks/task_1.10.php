@@ -75,4 +75,6 @@ $result = array_merge($arr1, $arr2);
 
 print_r($result);
 
+// новый коммент
+
 ?>
